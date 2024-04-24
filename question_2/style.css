@@ -1,0 +1,23 @@
+/* Author: CE BULABULA
+date: 15.03.2023
+gradedlab 4 */
+#sentence-input{
+    color:white;
+    background-color: grey;
+}
+
+#action-button{
+    color:white;
+    background-color: grey;
+
+}
+#display-count{
+    background-color: grey;
+    color:white;
+    padding: 0.01%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.new_span{
+    text-decoration: underline;
+}

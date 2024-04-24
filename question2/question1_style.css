@@ -1,0 +1,30 @@
+/*  Author: CE BULABULA
+date: 10.03.2024
+graded lab 3 */
+body{
+  max-width: 600px;
+  max-height: auto;
+  margin-left: 15%;
+  margin-top: 4%;
+}
+  ul {
+    padding: 0;
+    list-style-type: disc;
+  }
+  li {
+    padding: 10px;
+  }
+  .white_element {
+    
+    background-color: white;
+  }
+  .yellow_element {
+    background-color: yellow;
+  }
+  .removed-items {
+    color: red;
+    font-weight: bold;
+  }
+  .removed-counter {
+    color: green;
+  }

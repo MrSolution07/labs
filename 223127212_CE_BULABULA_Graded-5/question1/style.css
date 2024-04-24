@@ -1,0 +1,19 @@
+/* Author: CE BULABULA
+date: 03.04.2024
+gradedlab 5 */
+#sentence{
+    color:white;
+    background-color: grey;
+}
+
+#sent-count{
+    color:white;
+    background-color: grey;
+}
+.new_span{
+    text-decoration: underline;
+}
+#Execute{
+    color:white;
+    background-color: grey;
+}
